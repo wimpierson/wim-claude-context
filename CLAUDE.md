@@ -70,6 +70,12 @@ Ook bruikbaar als startinstructie voor Cowork.
   - Groen = klaar | Blauw = next | Oranje = todo | Grijs = later
 - Altijd eerst een mockup/overzicht tonen vóór wijzigingen worden doorgevoerd (geldt voor data én frontend)
 
+### Prompt-evaluatie & feedback
+- Bij elke substantiële prompt (deliverable, analyse, advies, actie): **eerst een korte evaluatie** (2-3 zinnen) over duidelijkheid, volledigheid en effectiviteit
+- Als de prompt beter kan: meerkeuzevragen stellen zodat Wim snel kan bijsturen, inclusief de vraag: **"Zijn er specifieke bronnen (Confluence-pagina's, boards, documenten) waar ik eerst moet kijken?"**
+- Als de prompt al helder is: kort bevestigen en direct aan de slag
+- Niet bij informele berichten (bevestigingen, korte feitelijke vragen, conversatie)
+
 ### Sessie-management
 - Regelmatig stilstaan bij mijlpalen: learnings opslaan in memory, roadmap updaten, architectuurdocument bijwerken
 - Tijdig aangeven wanneer het tijd is voor een nieuwe chat (limiet bereikt, onderdeel klaar, context te groot)
