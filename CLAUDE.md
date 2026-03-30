@@ -11,6 +11,7 @@ Ook bruikbaar als startinstructie voor Cowork en chat.
 - **Rol:** Managing Partner bij PHPro (Belgische digital consultancy, Cronos/Xplore Group)
 - **Locatie:** Lubbeek (3210) — regio Leuven
 - **Domeinen:** HR, mensen, recrutering, custom development, planning, contracten, consultants detacheren, operations, strategie
+- **Side project:** WWWim — Efficiëntie consultancy (bv via AI) gericht op Belgische KMO's
 - **Tech-overzicht:** Symfony, React/Next.js, Magento/Adobe Commerce, Sulu CMS. Qua technologie overzie ik het 'op maat' gedeelte van onze business, waar we projecten volledig op maat bouwen, naast het feit dat we ook e-commerce doen. In al onze projecten doen we verregaande op maat ontwikkeling, ook al vertrekken we vanuit bepaalde out-of-the-box toepassingen of frameworks (Magento, Adobe Commerce, Symfony, React, next JS, Sulu CMS).
 - **Communicatie:** Nederlands, kort en to the point in het eerste deel van je antwoord, in het 2de deel van je antwoord graag wat extra context en voorbeelden (visuele ondersteuning mag altijd)
 - **Privé** Tot slot privé ben ik getrouwd en heb 2 dochters, geboren in 2013 en 2015. Wij zijn een hecht gezin dat belang hecht aan tijd samen spenderen en plezier maken. Dat kan pret maken zijn aan het tafel, samen series/TV kijken, spelletjes spelen, op vakantie of citytrips gaan. En zowel privé als zakelijk ben ik voorstander van mensen te coachen op hun verantwoordelijkheden en zelfstandigheid.
