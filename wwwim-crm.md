@@ -1,7 +1,7 @@
 # WWWim CRM & Capability Library
 
 _Single source of truth — bijhouden op GitHub, gefetcht bij elke WWWim-projectchat._
-_Laatst bijgewerkt: 2026-04-02_
+_Laatst bijgewerkt: 2026-04-06_
 
 ---
 
@@ -55,6 +55,19 @@ _Laatst bijgewerkt: 2026-04-02_
 | Lopende trajecten | — |
 | Opportuniteiten | In te vullen na verwerking meeting notes |
 | Notities | Vorige call zonder notes. Vrijdag is derde contact. |
+
+### Birger
+| Veld | Waarde |
+|------|--------|
+| Status | prospect |
+| Sector | Sport / coaching / kinesitherapie |
+| Contactpersoon | Birger |
+| Volgende afspraak | — (richting zomer) |
+| Calls gehad | 1 (2026-03-24, meeting notes verwerkt) |
+| Toegepaste capabilities | — |
+| Lopende trajecten | — |
+| Opportuniteiten | 2.2 Manueel werk detecteren (sessie-registratie, WhatsApp-opvolging) |
+| Notities | Warme prospect, geen concrete datum. Wil eigen pijnpunten opschrijven. Potentieel netwerk via VC2. Opvolging nodig binnen 4–6 weken. |
 
 ---
 
