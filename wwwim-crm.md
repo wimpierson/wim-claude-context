@@ -80,3 +80,143 @@ _Laatst bijgewerkt: 2026-04-06_
 | opportuniteit | Concreet geïdentificeerde kans, nog niet gestart |
 | on hold | Traject gepauzeerd |
 | verloren | Niet verder gegaan |
+
+
+---
+
+## Project: Strategische Retreat Ibiza
+
+**Status:** Haalbaarheid peilen — interesse rondvragen  
+**Locatie:** Can Vistabella Resort, Ibiza  
+**Timing opties:** Midden mei 2026 · Tweede helft september 2026  
+**Grootte:** 8–12 personen (excl. Wim)  
+**Budget pp:** ~€2.200–2.500 all-in (excl. eigen vlucht)  
+**Wims kost:** enkel eigen vlucht (~€280–350)  
+**Format:** 3 dagen / 2 nachten — mix van inhoud, netwerk en beleving  
+**Volgende stap:** Voldoende interesse bevestigd → datum fixeren + locatie boeken  
+
+---
+
+### Deelnemers — gevraagd
+
+| Naam | Relatie | Sector | Gevraagd op | Antwoord | Notitie |
+|------|---------|--------|-------------|----------|---------|
+| Frank Cesar | Vriend | Medisch | 15/04/2026 | ✅ Ja | |
+| Stijn Bulens | Vriend | IT & Auto (Oldtimers) | 16/04/2026 | ❌ Eerder niet | |
+| Kenny Rassin | PHPro | IT | 17/04/2026 | 🔄 2027 | |
+
+---
+
+### Deelnemers — shortlist (nog te vragen)
+
+#### Prioriteit: hoog
+
+| Naam | Relatie | Sector | Notitie |
+|------|---------|--------|---------|
+| Kevin Hereman | PHPro/Phanes | IT | |
+| Christophe Joos | PHPro/Cronos | IT | |
+| Tom De Troyer | Vriend | Reizen | |
+| Evert Goossens | Nextum | Bouw | |
+| Jeroen Smolders | PHPro | IT | |
+| Pieter Caluwaerts | PHPro | Duurzame Energie | |
+| Wim Vandendriesse | Setle | Duurzame Energie | |
+| Birger Leys | Vriend | Gezondheid | |
+| Jens Van Dorpe | Meteor | IT | |
+| Dimitri Joos | Meteor | IT | |
+| Jori Aerden | Ex-klant PHPro | Audiovisuele producties | https://www.linkedin.com/in/joriaerden/ — mogelijke spreker of workshopleider |
+| Dennis Koekelbergh | Vriend/Student/Bumaco | Koeltechnieken | https://www.linkedin.com/in/denniskoekelbergh/ |
+
+#### Prioriteit: midden
+
+| Naam | Relatie | Sector | Notitie |
+|------|---------|--------|---------|
+| Bert Vandermeulen | PHPro | IT & Sales | |
+| Pieter Nickmans | Microtron | Elektrische en elektronische apparatuur | |
+| Kenneth Deviaene | Combell | IT & Hosting | |
+| Rogier Corthout | Rivean Capital | Private Equity | |
+| Simon Iven | XPG | IT & Sales | |
+| Tim Goffings | XPG | IT & Sales | |
+| Roel Van Cauter | Induxx | IT | |
+| Yannick Fierens | eWings | IT | |
+| Olivier Van Duyse | US | IT & Marketing | |
+| Robin Van Bouchout | Humix | IT & UX/UI | |
+
+#### Prioriteit: laag
+
+| Naam | Relatie | Sector | Notitie |
+|------|---------|--------|---------|
+| Koen Rogiers | XPG | IT | |
+| Nathalie De Martin | PHPro | IT | |
+| Valerie Cesar | Architime | Bouw/Architect/Medisch | |
+| Ben Vermeersch | Infofarm | IT | |
+| Johan Snels | Infofarm | IT | |
+| Bert Swinnen | Wisper | IT | |
+| Dennis De Reyer | XPG | IT | |
+| Dries Vanweyenbergh | Obycron | IT | |
+| Robert Bouten | Unlocked | IT | |
+| Bruno Braes | Forward | IT | |
+| Els Sergant | Elision | IT | |
+| Nick Janssens | Fenego | IT | |
+| Bruno Bocchialini | XPG | IT | |
+| Wouter Buntinx | Rega/School | IT & Lesgeven | Mogelijke workshopleider |
+| Aurelie Descamps | Cnock/Padel | Tentoonstellingen & Beurzen | |
+| Stefan Croimans | Cronos | IT | |
+| Dietrich Thieren | Geronimo | Entertainment | |
+| Steffen De Geyter | Cronos | IT | Doet triatlons — mogelijke activiteitenbegeleider |
+| Jeroen D'Espallier | Lubbeek | Dentale sector | |
+| Yannick Renier | Aertssen | Bouw | |
+| Willem Steelant | Valerie Cesar | Bouw | |
+| Stijn Vande Casteele | Sweepatic | IT & Security | |
+| Wim Vandevenne | Phanes | IT | |
+
+---
+
+### Longlist — laagste prioriteit
+
+| Naam / Referentie | Notitie |
+|-------------------|---------|
+| Joyce Augustyns | |
+| David Baens | |
+| Dirk Peumans | Via Frank |
+| Laurens Melotte | Via Frank |
+| Tennis coach Frank | Via Frank |
+| Bas Jan | |
+| Steven Berkenhof | |
+| Maarten Beyaert | |
+| Jeroen Celerier | |
+| Stijn Claes + vriend | Voetbal Pellenberg |
+| Maarten De Voeght | |
+| Charlotte De Volder | + vorige CEO/CFO van Xandres |
+| Jarno Devedeleer | |
+| Pieter Van Dyck | |
+| Pieter-Jan De Waele | Bizzmine |
+| Nicolas Deboutte | |
+| Robbert Debroyer | Oud-bpost |
+| Christophe Pons | https://www.linkedin.com/in/ponschristophe/ |
+| Monique Renier | https://www.linkedin.com/in/monique-renier-75b5b316/ |
+| Ben Elsen | Ooit bij PHPro gewerkt |
+| Tijl | Via Birger |
+| Magali Leys | |
+| Sammi | Padel? |
+| Elien Migalski | Labellov |
+| Dieter Moens | Nog eens mee afspreken |
+| Matti | Padel? |
+| Koen Muylkens | Engilico |
+| Sam Verdonck | Via Berkenhof |
+| Benjamien Schmitt | https://www.linkedin.com/in/schmittbenjamien/ |
+| Bertrand Schrevens | |
+| Wim Schrevens | |
+| Sempels | |
+| Alicia Steyaert | https://www.linkedin.com/in/aliciasteyaert/ |
+| Kenny Van Acker | https://www.linkedin.com/in/kennyvanacker/ — Atlas Copco |
+| Superflow Design | https://www.linkedin.com/in/superflowdesign/ — via bedrijf Kortrijk |
+| Kenny Wauters | https://www.linkedin.com/in/kennywauters/ |
+| Vaast Lokere | https://www.linkedin.com/in/vaast-lokere/ |
+
+---
+
+### Go/no-go criteria
+
+- Min. 8 bevestigingen → datum fixeren en locatie boeken  
+- Timing voorkeur bepaald door meerderheid  
+- Budget pp definitief berekenen na hoofdtelling
