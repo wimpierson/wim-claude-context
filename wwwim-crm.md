@@ -220,3 +220,33 @@ _Laatst bijgewerkt: 2026-04-06_
 - Min. 8 bevestigingen → datum fixeren en locatie boeken  
 - Timing voorkeur bepaald door meerderheid  
 - Budget pp definitief berekenen na hoofdtelling
+
+### Programma (concept)
+
+**Dag 1 — Verbinden & settelen**
+| Tijd | Type | Activiteit |
+|------|------|------------|
+| 14:00 | Opening | Check-in — welkomstdrink, kennismaking rond het zwembad |
+| 17:00 | Netwerk | Speed-introductie sessie (max 3 min/persoon, gefaciliteerd) |
+| 19:30 | Beleving | Openingsdiner bij zonsondergang — on-site restaurant |
+| 22:00 | Vrij | Cocktails, eigen tempo |
+
+**Dag 2 — Denken & doen**
+| Tijd | Type | Activiteit |
+|------|------|------------|
+| 08:00 | Beleving | Yoga sessie (optioneel) — outdoor yogadek |
+| 09:00 | Vrij | Ontbijt |
+| 10:00 | Inhoud | Werksessie #1 — strategie / efficiëntie / AI (45 min + Q&A) |
+| 11:30 | Inhoud | Werksessie #2 — jouw grootste bottleneck (groepssessie) |
+| 13:00 | Beleving | Lunch + siësta — poolside |
+| 15:30 | Inhoud | Werksessie #3 — leiderschap / gezondheid / beweging |
+| 17:00 | Netwerk | Hot seats — 2-3 deelnemers pitchen uitdaging, groep reageert |
+| 20:00 | Beleving | Diner buiten het resort |
+
+**Dag 3 — Verankeren & vertrekken**
+| Tijd | Type | Activiteit |
+|------|------|------------|
+| 09:00 | Vrij | Ontbijt |
+| 10:00 | Inhoud | Commitments & actieplannen (3 concrete acties per persoon) |
+| 11:30 | Netwerk | Closing circle — inzichten delen + vervolgafspraken |
+| 12:30 | Beleving | Afscheidslunch — vertrek op eigen tempo |
