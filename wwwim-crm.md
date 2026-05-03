@@ -250,3 +250,141 @@ _Laatst bijgewerkt: 2026-04-06_
 | 10:00 | Inhoud | Commitments & actieplannen (3 concrete acties per persoon) |
 | 11:30 | Netwerk | Closing circle — inzichten delen + vervolgafspraken |
 | 12:30 | Beleving | Afscheidslunch — vertrek op eigen tempo |
+
+---
+
+### Vragenlijst — deelnemers (concept v1)
+
+> Te versturen naar bevestigde geïnteresseerden. Doel: timing vastleggen + programma afstemmen op de groep.
+
+---
+
+**Strategische Retreat Ibiza — Even kort jouw input (5 vragen, 3 min)**
+
+Het idee is om twee dingen te combineren: even écht uit de dagelijkse rush stappen en ruimte maken om na te denken, én dat samen doen met een kleine groep mensen in een gelijkaardige positie — sparren over uitdagingen, ervaringen delen, elkaar verder helpen.
+
+Qua inhoud denk ik aan een combinatie van strategie, efficiëntie/AI en gezondheid & beweging. Nog niet volledig vastgelegd — ik wil daar input van de groep zelf in meenemen.
+
+---
+
+**1. Welk dagformaat spreekt jou het meest aan?**
+- Do → Za (aankomst donderdagavond, vertrek zaterdagmiddag) ← voorkeur
+- Zo → Di (aankomst zondagavond, vertrek dinsdagmiddag)
+- 3 weekdagen (ma–wo of di–do)
+
+---
+
+**2. Welke week in september/oktober past voor jou?**
+*(meerdere opties mogelijk)*
+- Week van 28 september
+- Week van 5 oktober
+- Week van 12 oktober
+
+---
+
+**3. Welke inhoudelijke thema's wil jij zeker zien?**
+
+Geef gerust aan wat er bij jou nu het hoogst op de agenda staat.
+Voorbeelden ter inspiratie: AI & automatisering, operations & processen, delegeren & loslaten, energie & focus als ondernemer, groei vs. stabiliteit, ...
+
+*(Vrij tekstveld)*
+
+---
+
+**4. Zou je zelf een case willen inbrengen?**
+
+Een hot seat: je brengt een concrete uitdaging mee, de groep denkt mee. Anonimiteit gegarandeerd buiten de groep.
+- Ja, ik heb al iets concreet in gedachten
+- Misschien, hangt af van het onderwerp
+- Nee, ik kom liever luisteren en sparren
+
+*Als je al iets concreets in gedachten hebt, mag je het hier kort schetsen (blijft intern):*
+*(Vrij tekstveld — optioneel)*
+
+---
+
+**5. Heb je een voorkeur voor een sportieve activiteit?**
+- Padel
+- Fietsen / MTB
+- Zeilen / watersport
+- Wandeling
+- Geen voorkeur / hoeft niet voor mij
+
+---
+
+*Bedankt! Op basis van de antwoorden prik ik een datum vast en neem ik daarna contact op.*
+
+---
+
+### Programma v2 (alternatief concept)
+
+> Wijzigingen t.o.v. v1: yoga → Birger bewegingssessie, dag 2 herwerkt met combi hot seat + inhoud per dagdeel, siësta behouden, sportief moment toegevoegd als optie.
+
+**Dag 1 — Verbinden & settelen**
+| Tijd | Type | Activiteit |
+|------|------|------------|
+| 14:00 | Opening | Check-in — welkomstdrink, kennismaking rond het zwembad |
+| 17:00 | Netwerk | Speed-introductie sessie (max 3 min/persoon, gefaciliteerd) — wat doe je, waarom ben je hier, wat wil je meenemen |
+| 19:30 | Beleving | Openingsdiner bij zonsondergang — on-site restaurant |
+| 22:00 | Vrij | Cocktails, eigen tempo |
+
+**Dag 2 — Denken & doen**
+| Tijd | Type | Activiteit |
+|------|------|------------|
+| 07:30 | Beweging | Birger — opstartbeweging (licht, buiten) |
+| 09:00 | Vrij | Ontbijt |
+| 10:00 | Inhoud | Werksessie voormiddag #1 — inhoudelijk thema (op basis van aangeleverde input deelnemers) |
+| 11:15 | Inhoud | Hot seats voormiddag — 2–3 cases in kleine groepjes |
+| 13:00 | Beleving | Lunch + siësta — poolside |
+| 15:00 | Sport | Optioneel: padel of andere activiteit |
+| 16:30 | Inhoud | Werksessie namiddag #1 — Birger: gezondheid & energie als ondernemer |
+| 17:45 | Inhoud | Hot seats namiddag — 2–3 cases in kleine groepjes |
+| 20:00 | Beleving | Diner buiten het resort |
+
+**Dag 3 — Verankeren & vertrekken**
+| Tijd | Type | Activiteit |
+|------|------|------------|
+| 07:30 | Beweging | Birger — optionele ochtendsessie (voor wie wil) |
+| 09:00 | Vrij | Ontbijt |
+| 10:00 | Inhoud | Afsluitsessie — take aways, 3 concrete acties per persoon, open ruimte voor aanvullende vragen |
+| 11:30 | Netwerk | Closing circle — inzichten delen, vervolgafspraken |
+| 12:30 | Beleving | Afscheidslunch |
+| Namiddag | Optioneel | Wandeling oude stad Ibiza + avondeten (bij late vlucht) |
+
+---
+
+### Hotelmail — voorbereiding Can Vistabella
+
+> Checklist van te bespreken punten bij eerste contact met het hotel. Doel: exclusieve prijsafspraak + praktische organisatie vastleggen.
+
+**Pricing & boeking**
+- Rechtstreekse groepsprijs vragen (buiten Booking.com / externe platformen)
+- Aantal kamers: 8–12 (tbd), alle gelijkwaardig of vergelijkbaar comfort
+- Bevestigen welke weken beschikbaar zijn: 28/9, 5/10, 12/10 (do–za formaat)
+- Vraag naar mogelijkheid exclusief gebruik bepaalde ruimtes (zwembad, terras, sessiezaal)
+
+**Catering**
+- Ontbijt: dagelijks inbegrepen? Groepsformule?
+- Lunch: dagelijks on-site, groepstafel — formule of à la carte?
+- Diner dag 1 & eventueel dag 3: on-site, zonsondergang setting
+- Verbruik tussendoor (koffie, water, frisdrank, snacks): forfait per persoon per dag?
+- Diner dag 2 is buiten het resort — geen actie nodig voor hotel
+
+**Sessieruimtes**
+- Welke ruimtes zijn beschikbaar voor werksessies (indoor + outdoor)?
+- Capaciteit en opstelling (ronde tafel, U-vorm, theater)?
+- Beamer/scherm, whiteboard, geluidsinstallatie aanwezig?
+- Mogelijkheid breakout-ruimtes voor kleine groepjes (2–4 personen)?
+
+**Vervoer & logistiek**
+- Heeft het hotel contacten / partnerships voor groepstransfer?
+  - Transfer van/naar luchthaven (aankomst do, vertrek za)
+  - Transfer naar restaurant (dag 2 avond)
+  - Eventuele nachtactiviteit
+- Zo niet: kunnen zij aanbevelen (lokale taxi/bus/minibus)?
+
+**Overig**
+- Vroeg inchecken mogelijk op donderdag (aankomst al vroeg in de namiddag)?
+- Late checkout mogelijk op zaterdag?
+- Annulatievoorwaarden bij groepsboeking?
+- Contactpersoon voor verdere opvolging (naam + e-mail)?
