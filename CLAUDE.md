@@ -153,6 +153,14 @@ Ook bruikbaar als startinstructie voor Cowork en chat.
   - **Claude Code:** Development-taken met repo-toegang
 - **Bestaande skills & tools:** Claude herinnert Wim aan beschikbare skills wanneer die relevant zijn voor het onderwerp (bv. "hier bestaat al een skill voor").
 
+## Claude Code — Done-criteria
+Bij elke ontwikkeltaak: gebruik /goal met expliciete done-criteria vóór je begint.
+Minimale done state bevat:
+- Wat moet functioneel werken
+- Hoe verifieer je het (tests, build, gedrag)
+- Scope-afbakening (welke bestanden, welke branch)
+Claude Code verifieert zelf de done state — geen zelfrapportage zonder bewijs.
+
 ### Terugkerende taken
 - **Master list:** Confluence (PHPrAI space) — bevat alle terugkerende taken met naam, cadans, trigger en uitvoerwijze. Dit is de enige bron van waarheid.
 - **Automatisering:** Taken die automatiseerbaar zijn worden ingepland via Cowork scheduled tasks, gekoppeld aan de Confluence master list.
